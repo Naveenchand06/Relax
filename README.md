@@ -1,10 +1,21 @@
-# relax
+# Relax
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Relax
+
+Try Relax for better Productivity.
+
+Ease of choosing and blending the ambient sounds into a mixture that will perfectly fit your mood.
+
+The purpose of this application is to be a study aid, allowing people to focus more effectively with the aid of ambience sound. This program is a clone of noisli developed for my personal offline use, however feel free to use it.
+
+ <p float="left">
+    <img src="https://raw.githubusercontent.com/Naveenchand06/relax/master/images/Google%20Pixel%204%20XL.png" width="27%" style="margin: 0px 0px 0px 0px;">
+ </p> 
+
 
 A few resources to get you started if this is your first Flutter project:
 
