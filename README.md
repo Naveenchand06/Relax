@@ -18,6 +18,7 @@ The purpose of this application is to be a study aid, allowing people to focus m
     <img src="https://raw.githubusercontent.com/Naveenchand06/relax/master/images/Screenshot_1629787558.png" width="27%" style="margin: 0px 0px 0px 0px;">
  </p> 
 
+ <button background-color=blue> <a> https://play.google.com/store/apps/details?id=com.naveenchand.relaxforproductivity </a> </button>
 
 A few resources to get you started if this is your first Flutter project:
 
